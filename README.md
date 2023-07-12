@@ -9,7 +9,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 They conducted a survey in those 10 cities and received results from 10k respondents.
 Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
-### Task List
+### Task
 
 Check the “Primary_Secondary_Insights.pdf” and answer the questions by analyzing the data provided. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel, PowerPoint).
 You can add more research questions and answer them in your presentation that suits your recommendations.
