@@ -25,7 +25,7 @@ For instance, a person is more likely to have not tasted the drink if they haven
 
 ## Canva Presentation Slides
 
-https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#10
+https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#1
 
 ##### Learning outcomes from this project:
 <ol>
