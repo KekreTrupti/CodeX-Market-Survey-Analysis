@@ -23,7 +23,8 @@ For instance, a person is more likely to have not tasted the drink if they haven
 ## Data Model created:
 <p align="center"><img src="F&B_datamodel.png"></p>
 
-## Canva Presentation Slides
+## [Canva Presentation Slides] (https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#10)
+
 https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#10
 
 ##### Learning outcomes from this project:
