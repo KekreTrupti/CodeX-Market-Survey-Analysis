@@ -1,7 +1,7 @@
 # CodeX_MarketSurveyAnalysis
 
 ## This project is done as entry to Codebasics Resume Challenge 6 - Provide Insights to the Marketing Team in Food & Beverage Industry
-###### Challenge link [https://codebasics.io/challenge/codebasics-resume-project-challenge]
+###### Challenge link (https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ### Problem statement
 
