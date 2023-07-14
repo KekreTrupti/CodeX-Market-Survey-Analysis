@@ -19,12 +19,10 @@ You can use additional data based on your own research to support your recommend
 Please note that it is possible that some respondents might not have answered all the questions sincerely.
 For instance, a person is more likely to have not tasted the drink if they haven’t heard about it. Sense-check the data and use your judgment to clean it as required.
 
-
 ## Data Model created:
 <p align="center"><img src="F&B_datamodel.png"></p>
 
 ## Canva Presentation Slides
-
 https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#1
 
 ##### Learning outcomes from this project:
@@ -38,11 +36,28 @@ https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#1
   <li>How to add hyperlinks in Power BI report page</li>
 </ol>
 
-###### Insights from the dashboard:
+###### Insights from the Power BI Report:
 <ol>
-  <li>Looking at weekday and weekend comparion for key metrics, the RevPAR and ADR show no major difference. This shows that differential pricing strategy       is not being considered.</li>
-  <li> Booking by Platform analysis and DRR % Trend show that direct booking channels of the hotels are attracting comparatively low bookings</li>
-  <li>When compared by City, Mumbai is generating the highest revenue whereas Hydrabad is generating the lowest revenue.</li>
-  <li>Atliq Exotica is generating the highest revenue whereas Atliq Grand is generating the lowest revenue</li>
-  <li>Realisation % for both Tripster and Makeyourtrip Platforms are low compared to others</li>
+  <li>Dominent Demography -- Men aged between 19-30. Using energy drinks mainly to increase focus, energy and to combat fatigue. Consumption frequency is 
+      2-3 times a week. Sports enthusiasts and young adults studying or working late are the primary users. </li>
+  <li> Respondents in the survey demonstrated preferences for natural and organic ingredients, limited edition packaging, compact and portable can designs, 
+      innovative packaging options, reduced sugar content, price range being Rs 50-99. 40% respondents are voting for caffeine as main ingredient followed 
+      by vitamins. More than 50% respondents speaking of health concerns. </li>
+  <li>Top 3 brands in Indian market are Cola-Coka, Bepsi, and Gangster. The success of these brands can be attributed to their reputation, taste/flavor, 
+      and availability. Online marketing has a significant influence on the major demographic.</li>
+  <li> CodeX's current market penetration is very less with neutral resopnses toeards its brand name, logo, design; with more than half of the respondents 
+      having an average to poor taste experience. The primary reasons for not trying CodeX are unavailability, health concerns, and lack of interest. </li>
 </ol> 
+
+###### Recommendations for CodeX
+<ol>
+  <li>  Focus on affordability. </li>
+  <li>  Embrace health-conscious options to follow the trend of functional energy drinks. </li>
+  <li>  Emphasize on  regional tastes and preferences to create a unique brand identity and attract a loyal customer base. </li>
+  <li>  Engage responsibly in marketing, avoid targeting children, and selecting  influencers who align with the brand's target audience. </li>
+  <li>  As brand ambassador, youth icons from sport background, YouTube influencers can be considered. </li>
+  <li>  Expand the product line to include coffee-infused options can diversify the customer base. </li>
+  <li>  Ensure compliance with regulations set by the Food Safety and Standards Authority of India (FSSAI) to maintain consumer trust and meet quality 
+        standards. </li>
+  <li>  Continuously monitor trends and consumer preferences in the energy drink industry to stay ahead of the competition. </li>
+</ol>
