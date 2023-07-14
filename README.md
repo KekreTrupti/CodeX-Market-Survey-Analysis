@@ -26,6 +26,9 @@ For instance, a person is more likely to have not tasted the drink if they haven
 ## Canva Presentation Slides
 https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#1
 
+## Final Video Presentation Link
+https://youtu.be/F2xBN7LG2vI
+
 ###### Learning outcomes from this project:
 <ol>
   <li>Data loading in Power BI</li>
