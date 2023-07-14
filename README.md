@@ -1,4 +1,4 @@
-# CodeX-Market-Survey-Analysis
+# CodeX_MarketSurveyAnalysis
 
 ## This project is done as entry to Codebasics Resume Challenge 6 - Provide Insights to the Marketing Team in Food & Beverage Industry
 ###### Challenge link [https://codebasics.io/challenge/codebasics-resume-project-challenge]
@@ -26,7 +26,7 @@ For instance, a person is more likely to have not tasted the drink if they haven
 ## Canva Presentation Slides
 https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#1
 
-##### Learning outcomes from this project:
+###### Learning outcomes from this project:
 <ol>
   <li>Data loading in Power BI</li>
   <li>Data Cleaning in Power Query Editor</li>
@@ -50,10 +50,10 @@ https://www.canva.com/design/DAFnRe7idKQ/COOkFI36muRPovbqSVCfSg/view#1
       having an average to poor taste experience. The primary reasons for not trying CodeX are unavailability, health concerns, and lack of interest. </li>
 </ol> 
 
-###### Recommendations for CodeX
+###### Recommendations for CodeX:
 <ol>
   <li>  Focus on affordability. </li>
-  <li>  Embrace health-conscious options to follow the trend of functional energy drinks. </li>
+  <li>  Embrace health-conscious options to follow the trend of functional energy drinks and to address health concerns. </li>
   <li>  Emphasize on  regional tastes and preferences to create a unique brand identity and attract a loyal customer base. </li>
   <li>  Engage responsibly in marketing, avoid targeting children, and selecting  influencers who align with the brand's target audience. </li>
   <li>  As brand ambassador, youth icons from sport background, YouTube influencers can be considered. </li>
